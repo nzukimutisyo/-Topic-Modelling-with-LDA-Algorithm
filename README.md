@@ -1,5 +1,5 @@
 # Topic Modelling with LDA Algorithm for audience targetting and content strategy
-A project to predict the price of Bitcoin using machine learning techniques.
+In this project I conducted topic modeling using LDA Algorithm to identify top 100 topics published in 50,000 news article and compiled a research report at the end.
 
 ## Getting Started
 
